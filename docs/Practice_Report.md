@@ -12,9 +12,7 @@ https://github.com/Radioon4800/practice-pm02-integration-testing
 
 ## 2. Граф коммитов (Git Graph)
 
-![Git Graph](https://github.com/Radioon4800/practice-pm02-integration-testing/blob/develop/docs/git-graph.png?raw=true)
-
-*(Прикрепи сюда скриншот графа коммитов из GitHub или GitKraken / VS)*
+![Git Graph][(https://github.com/Radioon4800/practice-pm02-integration-testing/blob/develop/docs/git-graph.png?raw=true](https://github.com/Radioon4800/practice-pm02-integration-testing/network))
 
 ## 3. Pull Request
 - Ссылка: https://github.com/Radioon4800/practice-pm02-integration-testing/pull/1
